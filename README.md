@@ -54,7 +54,7 @@ Helpful info for Database Development:
 
 
 >[!NOTE]
->The following is the user stories implemented within the given timeframe.
+<span style="background-color: #FFD553">Marked text</span
 > - [x] As an author I want to make public posts.
 > - [x] As an author I want to edit public posts.
 - [x] As an author, posts I create can link to images.
